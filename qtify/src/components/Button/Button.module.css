@@ -1,0 +1,10 @@
+.Button{
+border-radius: 8px;
+height: 70%;
+background-color: #121212;
+border: 1px solid;
+font-family:'Poppins', sans-serif;
+color:#34C94B;
+font-size:medium;
+cursor: pointer;
+}
