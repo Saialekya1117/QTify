@@ -7,14 +7,14 @@ left: 436px;
 border-top-right-radius: 0px;
 border-top-left-radius: 8px;
 border-bottom-left-radius: 8px;
-border: 1px solid var(--color-black);
+border: 2px solid black;
 padding:14px 20px;
 }
 
 .searchButton{
 border-left: none;
-border: 1px solid var(--color-black);
-height: 100%;
+border: 2px solid black;
+height: 105%;
 padding: 14px 20px;
 cursor: pointer;
 border-radius: 0px 8px 8px 0px;
