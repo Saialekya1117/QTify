@@ -1,16 +1,9 @@
-/* .logo{
-width: 4vw;
-/* height: 50%; */
-/* top: 30px;
-bottom: 30px;
-left: 39px; */
-/* } */ 
-
 .logo{
-width: 67px;
+/* width: 67px;
 height: 34px;
 top: 20px;
 bottom: 20px;
-left: 32px;
-
+left: 32px; */
+display: flex;
+margin: 14px;
 }
